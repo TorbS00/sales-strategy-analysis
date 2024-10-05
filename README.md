@@ -3,7 +3,7 @@
 This project focuses on analyzing historical sales data to gain insights into current sales performance and trends. By examining past sales behavior, we can identify patterns and make informed predictions about future sales. The goal of the project is to use these insights to forecast future revenue and recommend strategic adjustments that will help improve overall sales performance.
 
 ## What's in this project?
-* Data Cleaning: Manipulation of columns, addition of new columns, and removal of unnecessary data to create a clean dataset.
+* Data cleaning to create a new dataset.
 * Exploratory Data Analysis (EDA) of historical sales data.
 * Forecasting future sales based on historical trends.
 * Deliverable reports that outline findings, recommendations, and strategic adjustments.
